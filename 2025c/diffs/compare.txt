@@ -1,0 +1,154 @@
+New Timezones
+#####################
+America/Ciudad_Juarez
+America/Coyhaique
+America/Nuuk
+Europe/Kyiv
+Pacific/Kanton
+
+New Aliases
+#####################
+Africa/Addis_Ababa: Nairobi
+Africa/Asmara: Nairobi
+Africa/Bamako: Abidjan
+Africa/Bangui: Lagos
+Africa/Banjul: Abidjan
+Africa/Blantyre: Maputo
+Africa/Brazzaville: Lagos
+Africa/Bujumbura: Maputo
+Africa/Conakry: Abidjan
+Africa/Dakar: Abidjan
+Africa/Dar_es_Salaam: Nairobi
+Africa/Djibouti: Nairobi
+Africa/Douala: Lagos
+Africa/Freetown: Abidjan
+Africa/Gaborone: Maputo
+Africa/Harare: Maputo
+Africa/Kampala: Nairobi
+Africa/Kigali: Maputo
+Africa/Kinshasa: Lagos
+Africa/Libreville: Lagos
+Africa/Lome: Abidjan
+Africa/Luanda: Lagos
+Africa/Lubumbashi: Maputo
+Africa/Lusaka: Maputo
+Africa/Malabo: Lagos
+Africa/Maseru: Johannesburg
+Africa/Mbabane: Johannesburg
+Africa/Mogadishu: Nairobi
+Africa/Niamey: Lagos
+Africa/Nouakchott: Abidjan
+Africa/Ouagadougou: Abidjan
+Africa/Porto-Novo: Lagos
+America/Anguilla: Puerto_Rico
+America/Antigua: Puerto_Rico
+America/Aruba: Puerto_Rico
+America/Cayman: Panama
+America/Dominica: Puerto_Rico
+America/Grenada: Puerto_Rico
+America/Guadeloupe: Puerto_Rico
+America/Kralendijk: Puerto_Rico
+America/Lower_Princes: Puerto_Rico
+America/Marigot: Puerto_Rico
+America/Montserrat: Puerto_Rico
+America/St_Barthelemy: Puerto_Rico
+America/St_Kitts: Puerto_Rico
+America/St_Lucia: Puerto_Rico
+America/St_Thomas: Puerto_Rico
+America/St_Vincent: Puerto_Rico
+America/Tortola: Puerto_Rico
+Antarctica/McMurdo: Auckland
+Arctic/Longyearbyen: Berlin
+Asia/Aden: Riyadh
+Asia/Bahrain: Qatar
+Asia/Istanbul: Istanbul
+Asia/Kuwait: Riyadh
+Asia/Muscat: Dubai
+Asia/Phnom_Penh: Bangkok
+Asia/Vientiane: Bangkok
+Atlantic/St_Helena: Abidjan
+Etc/GMT+0: GMT
+Etc/GMT-0: GMT
+Etc/GMT0: GMT
+Etc/Greenwich: GMT
+Etc/Universal: UTC
+Etc/Zulu: UTC
+Europe/Bratislava: Prague
+Europe/Busingen: Zurich
+Europe/Guernsey: London
+Europe/Isle_of_Man: London
+Europe/Jersey: London
+Europe/Ljubljana: Belgrade
+Europe/Mariehamn: Helsinki
+Europe/Nicosia: Nicosia
+Europe/Podgorica: Belgrade
+Europe/San_Marino: Rome
+Europe/Sarajevo: Belgrade
+Europe/Skopje: Belgrade
+Europe/Vaduz: Zurich
+Europe/Vatican: Rome
+Europe/Zagreb: Belgrade
+Indian/Antananarivo: Nairobi
+Indian/Comoro: Nairobi
+Indian/Mayotte: Nairobi
+Pacific/Midway: Pago_Pago
+Pacific/Saipan: Guam
+
+Changed to Alias
+#####################
+Africa/Accra: Abidjan
+America/Atikokan: Panama
+America/Blanc-Sablon: Puerto_Rico
+America/Creston: Phoenix
+America/Curacao: Puerto_Rico
+America/Godthab: Nuuk
+America/Nassau: Toronto
+America/Nipigon: Toronto
+America/Pangnirtung: Iqaluit
+America/Port_of_Spain: Puerto_Rico
+America/Rainy_River: Winnipeg
+America/Thunder_Bay: Toronto
+America/Yellowknife: Edmonton
+Antarctica/DumontDUrville: Port_Moresby
+Antarctica/Syowa: Riyadh
+Asia/Brunei: Kuching
+Asia/Choibalsan: Ulaanbaatar
+Asia/Kuala_Lumpur: Singapore
+Atlantic/Reykjavik: Abidjan
+Australia/Currie: Hobart
+CET: Brussels
+CST6CDT: Chicago
+EET: Athens
+EST: Panama
+EST5EDT: New_York
+Europe/Amsterdam: Brussels
+Europe/Copenhagen: Berlin
+Europe/Kiev: Kyiv
+Europe/Luxembourg: Brussels
+Europe/Monaco: Paris
+Europe/Oslo: Berlin
+Europe/Stockholm: Berlin
+Europe/Uzhgorod: Kyiv
+Europe/Zaporozhye: Kyiv
+HST: Honolulu
+Indian/Christmas: Bangkok
+Indian/Cocos: Yangon
+Indian/Kerguelen: Maldives
+Indian/Mahe: Dubai
+Indian/Reunion: Dubai
+MET: Brussels
+MST: Phoenix
+MST7MDT: Denver
+PST8PDT: Los_Angeles
+Pacific/Chuuk: Port_Moresby
+Pacific/Enderbury: Kanton
+Pacific/Funafuti: Tarawa
+Pacific/Majuro: Tarawa
+Pacific/Pohnpei: Guadalcanal
+Pacific/Wake: Tarawa
+Pacific/Wallis: Tarawa
+WET: Lisbon
+
+Other Changes
+#####################
+
